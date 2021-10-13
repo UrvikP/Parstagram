@@ -25,4 +25,4 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/CtUJMcN.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![](https://i.imgur.com/ycx0Qpn.gif)
+<img src='https://i.imgur.com/ycx0Qpn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
